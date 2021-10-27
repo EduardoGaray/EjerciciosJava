@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Pokemones>
+    <Pokemon>
+        <id>1</id>
+        <name>Charmander</name>
+        <nickname>Lagarto</nickname>
+        <height>2,00</height>
+        <weight>19 lb</weight>
+        <desc>Tiene la puntica en llamas</desc>
+    </Pokemon>
+
+    <Pokemon>
+        <id>2</id>
+        <name>Charmeleon</name>
+        <nickname>Gran Lagarto</nickname>
+        <height>4,00</height>
+        <weight>36 lb</weight>
+        <desc>Le quema que flipas al lizard este</desc>
+    </Pokemon>
+
+    <Pokemon>
+        <id>3</id>
+        <name>Charizard</name>
+        <nickname>Lagarto Padre</nickname>
+        <height>6,00</height>
+        <weight>96 lb</weight>
+        <desc>Peazo dragón, nah de locos</desc>
+    </Pokemon>
+
+</Pokemones>
